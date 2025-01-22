@@ -1,4 +1,5 @@
-# Code for paper _Learning Node Embeddings by Smooth Pair Sampling_
+### Code for paper 
+# _Learning Node Embeddings by Smooth Pair Sampling_
 #### _Accepted for oral presentation at AISTATS 2025_
 
 ## Prerequisites
