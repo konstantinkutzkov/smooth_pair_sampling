@@ -1,0 +1,5 @@
+Python 3.10.12
+tensorflow==2.12.0
+networkx==2.8.4
+numpy==1.23.5
+scikit-learn==1.2.2
